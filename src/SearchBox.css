@@ -1,0 +1,10 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 2%;
+}
+@media screen and (max-width: 450px){
+
+    .SearchBox{
+        margin-bottom: 1%;
+    }
+}

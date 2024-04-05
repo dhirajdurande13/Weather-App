@@ -1,0 +1,24 @@
+.mainApp{
+    border: 4px solid #8a8085;
+    border-radius: 8px;
+    height: 42rem;
+    width: 34rem;
+    margin: auto;
+    margin-top: 4rem;
+    background-color: #f7f9fa;
+    box-shadow: 3px 3px 3px 3px #8a8085;
+}
+@media screen and (max-width: 450px){
+    .mainApp{
+    height: 40rem;
+    width: 20rem;
+    margin: auto;
+    margin-top: rem;
+    
+    }
+  }
+  /* @media screen and (max-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  } */
