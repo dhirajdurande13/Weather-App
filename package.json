@@ -1,13 +1,15 @@
 {
+  "homepage": "https://dhirajdurande13.github.io/Weather-App/",
   "name": "mini-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "test": "react-scripts test",
+    "eject":"react-scripts eject",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
@@ -20,7 +22,8 @@
     "@mui/icons-material": "^5.15.12",
     "@mui/material": "^5.15.12",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.64",
