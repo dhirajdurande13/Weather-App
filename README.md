@@ -19,7 +19,7 @@ A responsive weather application built with React and Material-UI, utilizing a w
 - React 
 - Material-UI
 - CSS
-- Weather API ([mention the specific weather API you used](https://api.openweathermap.org/data/2.5/weather))
+- Weather API (https://api.openweathermap.org/data/2.5/weather)
 
 ## Getting Started
 
